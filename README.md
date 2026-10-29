@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Keyboard+Configurator-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Keyboard+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Wootility Free Installer** — Wootility is the official configuration software for Wooting mechanical keyboards featuring analog input. Works without internet access, no account required. Full offline installation.
+**💻 Wootility Free Installer** — Wootility is the official configuration software for Wooting analog mechanical keyboards. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Wootility
 
-Wootility is the official configuration software for Wooting mechanical keyboards featuring analog input. It allows per-key actuation point adjustment, rapid trigger configuration, RGB customization, and macro programming through a clean web-based interface.
+Wootility is the official configuration software for Wooting analog mechanical keyboards. Configure analog input sensitivity, customize key mappings, create profiles, and adjust RGB lighting for Wooting keyboards. Wootility enables the unique analog key actuation features that make Wooting keyboards popular for gaming — directional keys that respond proportionally like a joystick.
 
 ---
 
 ## ❌ Problem: Wootility is hard to access
 
-- **Wooting Only** — Exclusively compatible with Wooting brand keyboards
-- **Browser-Based UI** — Runs in a browser which some users find less responsive than native apps
-- **Internet Required for Setup** — Initial firmware updates and some features require internet
-- **Limited Profiles** — Number of savable profiles constrained by keyboard firmware memory
+- **Wooting Only** — Exclusively for Wooting keyboards; no other keyboard support
+- **Hardware Required** — Requires Wooting keyboard to have any function
+- **Windows Primary** — Best supported on Windows; other platforms less complete
+- **Online Account** — Cloud profile sync requires Wootility account
 
 ---
 
@@ -121,7 +121,7 @@ Wootility is the official configuration software for Wooting mechanical keyboard
 
 ---
 
-**Wootility Free Installer** — Wootility is the official configuration software for Wooting mechanical keyboards featuring analog input. Install without internet connection today!
+**Wootility Free Installer** — Wootility is the official configuration software for Wooting analog mechanical keyboards. Install without internet connection today!
 
 <div align="center">
 
